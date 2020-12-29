@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Outline&family=Quicksand:wght@300&display=swap');
+
+html, body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #222222;
+}
+
+* {
+    font-family: Quicksand, sans-serif;
+    color: white;
+}
+
+h1 {
+    font-family: 'Bungee Outline';
+    width: 100%;
+    margin: 0;
+    padding-top: 10px;
+    padding-left: 10px;
+    text-align: center;
+}
+
+img {
+    max-height: 300px;
+}
